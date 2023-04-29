@@ -1,1 +1,1 @@
-# cv
+# Amazon dummy frontend
